@@ -1,5 +1,5 @@
 # FXRT search code
-This code was been developed to search fast X-ray transients (FXRTs) in a CXO ObsId.
+This code was been developed to search fast X-ray transients (FXRTs) in a Chandra X-ray Observatory (CXO) observation ID (ObsId).
 
 You have to download both files (search_code_CXO.py and search_data.py), and run using the command:
 
